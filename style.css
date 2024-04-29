@@ -1,0 +1,30 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.corpo {
+    background-color: #5c86f8;
+    height: 100vh;
+    width: 100vw;
+    font-family: 'Shrikhand';
+    
+}
+
+.imagem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 85%;
+}
+
+.texto {
+    display: flex;
+    margin-left: 20%;
+}
+
+a{
+    color: white;
+    font-size: xx-large;
+    text-decoration: none;
+}
